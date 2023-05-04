@@ -1,0 +1,5 @@
+.icon-light {
+  font-family: "FontAwesome";
+  src: local("MyFont"), url(./font/pro-fa-light.woff2) format("woff2");
+  font-weight: 300;
+}
